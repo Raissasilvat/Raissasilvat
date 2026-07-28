@@ -13,7 +13,7 @@ Unindo experiência de negócio (CRM, campanhas, análise de conversão) com eng
 ### 🧠 Sobre mim
 
 - 🔭 Atualmente aprofundando conhecimentos em **Engenharia de Dados** e **IA aplicada a Dados**
-- 🌱 Cursando pós-graduação em **IA e Análise de Dados**
+- 🌱 Pós-graduação em **IA e Análise de Dados**
 - 💼 Background em **Marketing e CRM**, com experiência prática em A/B testing e otimização de conversão
 - 🤝 Participante ativa de comunidades de dados e programas de formação (Data Girls, Ada/Elas+ Tech, Indicium AI Lighthouse)
 - 📫 Compartilho minha jornada de aprendizado no [LinkedIn](https://www.linkedin.com/in/raissa-silvat/)
