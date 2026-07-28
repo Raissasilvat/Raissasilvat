@@ -64,17 +64,6 @@ Pipeline de dados para classificação de credit score, com orquestração via A
 
 ---
 
-### 📈 Estatísticas
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raissasilvat&show_icons=true&theme=default&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
 
 💜 Aberta a conexões, trocas de conhecimento e oportunidades na área de dados!
 
