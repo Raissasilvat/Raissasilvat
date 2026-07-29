@@ -9,7 +9,7 @@
 Unindo experiência de negócio (CRM, campanhas, análise de conversão) com engenharia e análise de dados.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Raissasilvat&color=3B82F6&style=flat-square&label=Visitas+ao+perfil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3A8A?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3A8A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raissa-silvat)
 
 </div>
 
